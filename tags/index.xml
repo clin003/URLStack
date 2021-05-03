@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on URLStack网址导航</title>
-    <link>/tags/</link>
+    <link>https://clin003.github.io/URLStack/tags/</link>
     <description>Recent content in Tags on URLStack网址导航</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>&lt;a href=&#34;https://www.lyhuilin.com&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;baicailin&lt;/strong&gt;&lt;/a&gt; design by &lt;a href=https://lyhuilin.gitee.com target=&#34;_blank&#34;&gt;&lt;strong&gt;白菜林&lt;/strong&gt;&lt;/a&gt;</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://www.lyhuilin.com&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;baicailin&lt;/strong&gt;&lt;/a&gt; design by &lt;a href=https://lyhuilin.gitee.com target=&#34;_blank&#34;&gt;&lt;strong&gt;白菜林&lt;/strong&gt;&lt;/a&gt;</copyright><atom:link href="https://clin003.github.io/URLStack/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
